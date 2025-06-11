@@ -1,0 +1,1 @@
+// Fonction d'appel à OpenAI via proxy
